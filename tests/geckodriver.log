@@ -1,0 +1,15 @@
+1660207183097	geckodriver	INFO	Listening on 127.0.0.1:60903
+1660207183645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shoot\\AppData\\Local\\Temp\\rust_mozprofileQ76p42"
+1660207264691	geckodriver	INFO	Listening on 127.0.0.1:60947
+1660207265251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shoot\\AppData\\Local\\Temp\\rust_mozprofilepAlZeG"
+1660207265838	Marionette	INFO	Marionette enabled
+1660207265846	Marionette	INFO	Listening on port 60957
+Read port: 60957
+1660207266294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shoot\\AppData\\Local\\Temp\\rust_mozprofilepAlZeG\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=438567566819-3k1nk9qd1vr39c42rmjr0dh24ngth0s4.apps.googleusercontent.com&response_type=code&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fthirdparty.aliexpress.com%2Fggcallback.htm&state=iL7E8xPldkLkhvvMuLiwtlLofJ7jPTZ489rl2fpSfRQI%2FF4Inm77rApP%2B%2FV11Oonu8S%2B1A1HFl4%3D&flowName=GeneralOAuthFlow line 2 > eval line 5621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=438567566819-3k1nk9qd1vr39c42rmjr0dh24ngth0s4.apps.googleusercontent.com&response_type=code&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fthirdparty.aliexpress.com%2Fggcallback.htm&state=iL7E8xPldkLkhvvMuLiwtlLofJ7jPTZ489rl2fpSfRQI%2FF4Inm77rApP%2B%2FV11Oonu8S%2B1A1HFl4%3D&flowName=GeneralOAuthFlow line 2 > eval line 7667 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660207272542	Marionette	INFO	Stopped listening on port 60957
